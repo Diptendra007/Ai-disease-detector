@@ -1,0 +1,58 @@
+[
+  {
+    "patient_id": "P-001",
+    "name": "Robert Smith",
+    "age": 68,
+    "gender": "Male",
+    "primary_diagnosis": "Hypertension",
+    "last_seen": "2025-10-28",
+    "vitals": {
+      "timestamps": ["2025-08-01", "2025-09-15", "2025-10-28"],
+      "blood_pressure_systolic": [140, 142, 145],
+      "glucose": [110, 115, 120],
+      "bmi": [29.5, 29.6, 29.7]
+    }
+  },
+  {
+    "patient_id": "P-002",
+    "name": "Maria Garcia",
+    "age": 45,
+    "gender": "Female",
+    "primary_diagnosis": "Type 2 Diabetes",
+    "last_seen": "2025-10-30",
+    "vitals": {
+      "timestamps": ["2025-07-20", "2025-09-01", "2025-10-30"],
+      "blood_pressure_systolic": [120, 125, 122],
+      "glucose": [150, 145, 148],
+      "bmi": [31.2, 31.0, 30.9]
+    }
+  },
+  {
+    "patient_id": "P-003",
+    "name": "James Johnson",
+    "age": 52,
+    "gender": "Male",
+    "primary_diagnosis": "Post-MI Follow-up",
+    "last_seen": "2025-10-29",
+    "vitals": {
+      "timestamps": ["2025-08-10", "2025-09-10", "2025-10-29"],
+      "blood_pressure_systolic": [130, 128, 125],
+      "glucose": [90, 92, 91],
+      "bmi": [27.0, 27.1, 26.9]
+    }
+  },
+  {
+    "patient_id": "P-004",
+    "name": "Patricia Williams",
+    "age": 71,
+    "gender": "Female",
+    "primary_diagnosis": "Pre-diabetes",
+    "last_seen": "2025-10-27",
+    "vitals": {
+      "timestamps": ["2025-07-15", "2025-08-30", "2025-10-27"],
+      "blood_pressure_systolic": [135, 138, 140],
+      "glucose": [120, 125, 130],
+      "bmi": [28.5, 28.6, 28.7]
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "d-001",
+    "name": "Metformin",
+    "class": "Biguanide",
+    "in_formulary": true,
+    "details": "First-line oral hypoglycemic for Type 2 Diabetes. Lowers glucose production in the liver. Low risk of hypoglycemia."
+  },
+  {
+    "id": "d-002",
+    "name": "Lisinopril",
+    "class": "ACE Inhibitor",
+    "in_formulary": true,
+    "details": "Used for hypertension and heart failure. Provides renal protection, especially in diabetic patients. Monitor for cough and hyperkalemia."
+  },
+  {
+    "id": "d-003",
+    "name": "Atorvastatin",
+    "class": "Statin",
+    "in_formulary": true,
+    "details": "Lowers LDL cholesterol and triglycerides. Stabilizes plaques. Indicated for high-risk ASCVD patients. Monitor LFTs."
+  },
+  {
+    "id": "d-004",
+    "name": "Aspirin (Low Dose)",
+    "class": "Antiplatelet",
+    "in_formulary": true,
+    "details": "Inhibits platelet aggregation. Used for primary and secondary prevention of cardiovascular events. Assess bleeding risk."
+  },
+  {
+    "id": "d-005",
+    "name": "Ozempic (Semaglutide)",
+    "class": "GLP-1 RA",
+    "in_formulary": false,
+    "details": "Injectable for Type 2 Diabetes. Promotes weight loss and provides significant cardiovascular benefits. NOT IN FORMULARY (Requires special authorization)."
+  },
+  {
+    "id": "d-006",
+    "name": "Jardiance (Empagliflozin)",
+    "class": "SGLT2 Inhibitor",
+    "in_formulary": true,
+    "details": "Oral hypoglycemic. Provides cardiovascular and renal benefits by promoting glucose excretion. Monitor for UTIs and euglycemic DKA."
+  }
+]
