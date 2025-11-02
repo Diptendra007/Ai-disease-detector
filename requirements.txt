@@ -1,0 +1,18 @@
+# ML & Data
+pandas
+numpy
+scikit-learn
+shap
+joblib
+matplotlib
+ipython
+
+# Backend API
+flask
+flask-cors plotly
+
+# Frontend Dashboard
+streamlit>=1.33.0
+
+# API Client
+requests

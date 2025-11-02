@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Data
+data/raw/*
+data/processed/*
+
+# Models
+models/*
+!models/.gitkeep
+
+# Notebooks
+.ipynb_checkpoints/
